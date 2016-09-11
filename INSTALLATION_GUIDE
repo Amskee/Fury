@@ -1,0 +1,7 @@
+Pre-Requisite : You must have installed unity 5.x on your System
+Installation :
+-> Download this repository
+-> Extract the main zip (Which unzips the other two modules also)
+-> Put the extracted repository into a Empty Unity Project folder
+-> NOTE : Unity 5.x comes with Standard Assets Folder. Copy that into your project directory to watch this project work! Have fun.
+-> For any queries : p.p.amrishkumar@gmail.com
